@@ -1,0 +1,8 @@
+Ce que j'ai appris le 01/03/2021
+1- Des précisions sur la méthodologie d'apprentissage et l'importance de positiver
+2- Nécessiter de se concentrer sur une tâche (et non se disperser sur du muli tâches)
+3- Les 8 compétences du titre professionnel - mise en pace d'arbres de progression
+4- utilisation de visual studio Code + terminal
+5- Installation de git
+6- utilisation de GITHUB pour création de fichiers de travail partagés et historisation des fichiers
+7- Création d'un repository local et synchronisation avec le repository distant
