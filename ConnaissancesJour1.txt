@@ -22,3 +22,4 @@ ce que j'ai appris :
 - La boucle While()
 - L'utilisation des IF ..... ELSE
 - La création et affichage de tableaux deux dimensions
+- les boucles FOR 
