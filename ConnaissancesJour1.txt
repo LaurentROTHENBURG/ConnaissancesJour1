@@ -6,3 +6,19 @@ Ce que j'ai appris le 01/03/2021
 5- Installation de git
 6- utilisation de GITHUB pour création de fichiers de travail partagés et historisation des fichiers
 7- Création d'un repository local et synchronisation avec le repository distant
+
+
+Mise à jour le 09/03
+ce que j'ai appris :
+
+- La création de variables : Type, nom
+- Type : INT, FLOAT, DOUBLE,
+- L'utilisation du BOOLEAN
+- L'initialisation de variales
+- L'utilisation de fonctions
+- L'utilisation de la classe Scanner pour récupérer des données saisies par l'utilisateur
+- L'affichage de résultat avec System.out.print
+- La mise en forme des valeurs affichés : le nombre de décimal, le positionnement dnas la console
+- La boucle While()
+- L'utilisation des IF ..... ELSE
+- La création et affichage de tableaux deux dimensions
